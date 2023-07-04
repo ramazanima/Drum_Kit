@@ -1,4 +1,4 @@
-# Drum_Kit
+# Drum Kit
 This web-based Drum-Kit simulator is developed using JavaScript DOM and Event Listeners. The website uses drum sounds that can be found in the sounds folder, and javascript is used to register keypresses that trigger particular sounds. 
 
 
